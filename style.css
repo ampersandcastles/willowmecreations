@@ -78,6 +78,12 @@ a:hover {
     margin: 0 auto;
 }
 
+.logo {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}
+
 .container {
     display: flex;
     padding: 50px;
@@ -115,7 +121,7 @@ a:hover {
 
 /* Add box shadow to header and footer */
 
-.header, .footer {
+.footer {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
