@@ -46,6 +46,6 @@ Contributions to Willow Me Creations are not currently open, as this is a person
 
 ## License
 
-This website is licensed under the [MIT License](LICENSE). Feel free to explore the code, but please respect the intellectual property and creative efforts behind Willow Me Creations.
+This website is licensed under the [MIT License](LICENSE). Feel free to explore the code, but please respect the intellectual property and creative efforts behind Willow Me Creations. Or don't. I used AI to build a fair amount of this.
 
 &copy; 2023 Willow Me Creations
