@@ -21,14 +21,14 @@ The website's [Products](products.html) page provides detailed information about
 
 ## Contact
 
-For inquiries, custom orders, or general communication, feel free to reach out:
+For inquiries, custom orders, or general communication, feel free to reach out: (update email)
 
-- **Email:** [bethany@willowmecreations.com](mailto:bethany@willowmecreations.com)
+- **Email:** [bethany@willowmecreations.com](mailto:)
 
-Connect with Willow Me Creations on social media:
+Connect with Willow Me Creations on social media: (need to update these links)
 
-- [Facebook](https://facebook.com/bethany)
-- [Instagram](https://instagram.com/fkahab)
+- [Facebook](https://facebook.com/)
+- [Instagram](https://instagram.com/)
 - [TikTok](https://tiktok.com/bethanyrhodes6)
 
 ## Getting Started
